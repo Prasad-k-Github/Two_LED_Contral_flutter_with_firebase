@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788024373476",
+    "project_id": "bulb-dealy-new",
+    "storage_bucket": "bulb-dealy-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788024373476:android:e7dc4236049ab8a11dbcf1",
+        "android_client_info": {
+          "package_name": "com.example.blubrelay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0EgMMF4g8L0QREtj6o1S1MXLoPyuOEVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
